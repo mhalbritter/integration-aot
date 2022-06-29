@@ -1,5 +1,7 @@
 # Integration AOT bug reproducer
 
+See https://github.com/spring-projects/spring-framework/issues/28727
+
 `./build-and-run.sh`:
 
 ```
